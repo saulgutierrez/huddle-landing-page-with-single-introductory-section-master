@@ -82,12 +82,13 @@ main article section {
 
 main article section h1 {
     font-size: 2.4em;
-    font-weight: 600;
     width: 75%;
     align-self: flex-start;
 }
 
 main article section h5 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1em;
     position: relative;
     margin-top: 20px;
     font-weight: 400;
@@ -97,6 +98,7 @@ main article section h5 {
 }
 
 main article section button {
+    font-family: "Open Sans", sans-serif;
     padding: 10px 60px;
     border-radius: 20px;
     border: none;
