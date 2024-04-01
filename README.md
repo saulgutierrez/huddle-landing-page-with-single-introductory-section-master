@@ -39,6 +39,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Ionic Icons
 
 ### What I learned
 
