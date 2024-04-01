@@ -138,6 +138,17 @@ main article footer div ion-icon:hover {
     border: 1px solid hsl(300, 69%, 71%);
 }
 
+/* Large screens */
+@media screen and (min-width: 1400px) {
+    main article figure {
+        width: 50%;
+    }
+
+    main article section {
+        margin-left: calc(50% + 60px);
+    }
+}
+
 /* Laptops */
 @media screen and (max-width: 992px) {
     header figure {
